@@ -1,0 +1,13 @@
+{
+    "name": "cotobot",
+    "version": "1.0.0",
+    "description": "this is a bot that likes to talk",
+    "main": "index.js",
+    "author": "Alan anguiano",
+    "dependencies": {
+        "discord.io": "^2.5.3",
+        "discord.js": "^12.5.3",
+        "dotenv": "^8.2.0",
+        "winston": "^3.3.3"
+    }
+}
